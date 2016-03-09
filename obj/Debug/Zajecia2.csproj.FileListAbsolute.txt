@@ -1,0 +1,6 @@
+\\psf\home\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\Zajecia2.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+\\psf\home\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+\\psf\home\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+\\psf\home\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+\\psf\home\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
